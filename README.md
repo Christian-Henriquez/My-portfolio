@@ -1,4 +1,4 @@
-# Run Buddy
+# My portfolio
 
 ## Purpose
 A website that offers fitness training services.
