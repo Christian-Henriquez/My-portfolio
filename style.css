@@ -4,6 +4,7 @@
     box-sizing: border-box;
   }
 
+  
 body {
     /* more on this crazy alphanumerical value in a minute! */
     color: #39a6b2;
@@ -39,7 +40,7 @@ header {
   }
   
   header nav ul li a {
-    margin: 0 30px;
+    margin: 0 3px;
     font-weight: lighter;
     font-size: 22px;
   }
